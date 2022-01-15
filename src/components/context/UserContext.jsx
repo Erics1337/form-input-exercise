@@ -51,7 +51,6 @@ export const UserProvider = ({ children }) => {
     } catch(err) {
         alert(err)
     }
-
   }
 
 
