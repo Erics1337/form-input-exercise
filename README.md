@@ -20,5 +20,6 @@ You may also see any lint errors in the console.
 ## Uses
 - Tailwind CSS framework
 - formik form creation
-- yup validation
+- react-select for dynamic dropdown menu
+- yup form validation
 - fetch api
